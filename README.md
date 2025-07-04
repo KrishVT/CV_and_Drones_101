@@ -1,6 +1,6 @@
 # CV and Drones 101 – Python Demo Code
 
-This repository accompanies the **“CV and Drones 101”** (Electrical Engineering Association,  
+This repository accompanies the **“CV and Drones 101”** project (Electrical Engineering Association,  
 IIT Kanpur, Dec ’23 – Jan ’24).  
 It contains **self‑contained Python scripts** that recreate each hands‑on activity covered:
 
